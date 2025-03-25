@@ -5,3 +5,10 @@
 ## game stick 4k lite firmware version information.<br>
 <img src="./image/segam-m8.png" width="80%">
 <br>
+
+<img src="./image/IMG_0787.png" width="80%">
+<br>
+<img src="./image/IMG_0788.png" width="80%">
+<br>
+<img src="./image/IMG_0789.png" width="80%">
+<br>
