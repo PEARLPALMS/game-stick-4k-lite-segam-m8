@@ -14,6 +14,6 @@
 <img src="./image/IMG_0788.png" width="80%">
 <br>
 
-## memory chip.<br>
+## memory chip. (128M x 2 = 256M)<br>
 <img src="./image/IMG_0789.png" width="80%">
 <br>
