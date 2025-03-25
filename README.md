@@ -6,9 +6,14 @@
 <img src="./image/segam-m8.png" width="80%">
 <br>
 
+## overview.<br>
 <img src="./image/IMG_0787.png" width="80%">
 <br>
+
+## main chip.<br>
 <img src="./image/IMG_0788.png" width="80%">
 <br>
+
+## memory chip.<br>
 <img src="./image/IMG_0789.png" width="80%">
 <br>
